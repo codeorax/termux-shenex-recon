@@ -1,3 +1,4 @@
+
 # termux-shenex-recon
 
 Termux ortamı üzerinde çalışan, sistem analizi ve keşif (recon) süreçleri için tasarlanmış bir framework'tür. 
@@ -16,3 +17,7 @@ cd termux-shenex-recon
 
 # Gereksinimleri kurun
 pip install -r requirements.txt
+
+## Kullanım
+```bash
+python sherlock.py
